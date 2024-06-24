@@ -120,10 +120,3 @@ I hope this provided meaningful insight. Open to any kind of feedback.
 
 
 </div>
-
-
-#dataanalysis
-
-#excel
-
-#powerbi
